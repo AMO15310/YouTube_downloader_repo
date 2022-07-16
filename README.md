@@ -1,5 +1,5 @@
+<img src="screenshot.png">
 
-![Screenshot](Screenshot at 2022-07-16 16-19-23.png)
 
 This is a repository which contains a YouTube downloader which prompts the user to enter the youtube link and after pressing download,it downloads the video specified by the link and then downloads it in the directory or folder where you run this code.
 
